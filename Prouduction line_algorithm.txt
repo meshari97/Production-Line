@@ -1,0 +1,7 @@
+the mean idea to design system that seprate produt by its box size it's seprated by using logic state and 12 servo motor.
+
+1st logic state makes 1st 4 servo motor move to 90 degree for small box.
+
+2nd logic state makes 2nd 4 servo motor move to -90 degree for med box.
+
+3rd logic state makes 3rd 4 servo motor move to 0 degree (dose'nt) for big box.
